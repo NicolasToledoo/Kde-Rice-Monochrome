@@ -4,7 +4,7 @@ The simplest rice, yet the slickest one. A minimalist, monochrome KDE Plasma set
 
 ![Workspace](assets/midias-rice/workspace.png)
 
-<video src="assets/midias-rice/video-rice.mp4" controls width="640"></video>
+[▶ Watch the rice video](assets/midias-rice/video-rice.mp4)
 
 ## Information
 
@@ -82,7 +82,7 @@ O rice mais simples, porém o mais elegante. Um setup minimalista e monocromáti
 
 ![Workspace](assets/midias-rice/workspace.png)
 
-<video src="assets/midias-rice/video-rice.mp4" controls width="640"></video>
+[▶ Assista ao vídeo do rice](assets/midias-rice/video-rice.mp4)
 
 ## Informações
 
