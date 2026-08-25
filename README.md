@@ -4,8 +4,6 @@ The simplest rice, yet the slickest one. A minimalist, monochrome KDE Plasma set
 
 ![Workspace](assets/midias-rice/workspace.png)
 
-[▶ Watch the rice video](assets/midias-rice/video-rice.mp4)
-
 ## Information
 
 - **Operating System:** Arch Linux
@@ -81,8 +79,6 @@ All wallpapers are stored in the `wallpapers/` folder of this repository:
 O rice mais simples, porém o mais elegante. Um setup minimalista e monocromático do KDE Plasma para Arch Linux.
 
 ![Workspace](assets/midias-rice/workspace.png)
-
-[▶ Assista ao vídeo do rice](assets/midias-rice/video-rice.mp4)
 
 ## Informações
 
